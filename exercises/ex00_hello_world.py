@@ -1,4 +1,5 @@
 """My first program for COMP110"""
 
-_730235796_="1234567890"
+_author_="730235796"
+
 print("Hello, sweet world.")
